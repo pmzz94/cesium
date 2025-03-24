@@ -61,10 +61,4 @@ yarn.lock
 .idea/tasks.xml
 .idea/shelf
 
-Apps/MyCesiumDemo/terra_b3dms/
-Apps/MyCesiumDemo/bim_b3dms/
-Apps/MyCesiumDemo/bim_tiles/
-Apps/MyCesiumDemo/bim0_tiles/
-Apps/MyCesiumDemo/bim1_tiles/
-Apps/MyCesiumDemo/nanchong_tiles/
-Apps/MyCesiumDemo/nanchong1_tiles/
+/Apps/MyCesiumDemo/

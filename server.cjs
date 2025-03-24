@@ -1,4 +1,4 @@
-/*eslint-env node*/
+/* eslint-env node */
 /* eslint-disable no-unused-vars */
 /* eslint-disable global-require */
 "use strict";
